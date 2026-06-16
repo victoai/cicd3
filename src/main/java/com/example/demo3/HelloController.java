@@ -13,6 +13,6 @@ public class HelloController {
 
     public String  hi(){
 
-        return  "hi  cicd docker   ECR !!!  ^^^ !!! 0616 ";
+        return  "hi  cicd docker   ECR !!!  ^^^ !!! 0616  ^^";
     }
 }
